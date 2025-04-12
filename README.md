@@ -51,3 +51,6 @@ and provide visual cues for better decision-making.
 I'd love to hear what you think about the dashboard!  
 Feel free to drop feedback or reach out if you'd like a **walkthrough** of the project.
 
+![image](https://github.com/user-attachments/assets/6ddc9d23-19e8-496e-985e-682adad4233d)
+
+
